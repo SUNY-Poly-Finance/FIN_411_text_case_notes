@@ -3,13 +3,45 @@
 #+SETUPFILE: https://fniessen.github.io/org-html-themes/setup/theme-readtheorg.setup
 
 
+* Repo 105
 
-* Topics
+Discuss Repo 105 and its motivation.  The underlying business drove the
+accounting.  Similarly, what was wrong at Enron?  
 
-** Talk about LBOs.  Page 102 
-** After LBO Krispy Kreme becomes "debt-free".  Krispy Kreme IPOs in 2000, and then seeks to "aggressively" increase the number of stores.  Talk about the effect of aggressive expansion on the Balance sheet.  Discuss IGR and SGR. Krispy Kreme will ultimately use "external financing" through new franchisee fees.
-*** Was bad accounting merely a symptom of an overly aggressive expansion plan?
-** Asymmetric Information, financial statements, and firm value
-** What makes financial statements required?  Bond protective covenants, and stock market listing requirements and their implications if you don't file on time.
-*** Missing financial statements means debt can be called, which may cause default.
+* Talk about LBOs.  (relevant to page 102)
+
+Summarize what an LBO is and discuss its motivation and the implication for
+the firm in terms of ownership, control, and debt.
+
+
+* Aggressive Expansion
+
+After LBO Krispy Kreme becomes "debt-free".  Krispy Kreme IPOs in 2000, and
+then seeks to "aggressively" increase the number of stores.  What was the
+percent growth in stores?
+
+Talk about the
+effect of aggressive expansion on the Balance sheet.  Discuss IGR and SGR.
+Krispy Kreme will ultimately use "external financing" through new franchisee
+fees.  What type of financing (debt or equity) is a financing fee?
+
+
+Do you think KK had the balance sheet to expand as quickly as they proposed?
+Could the bad accounting merely be a symptom of an overly aggressive expansion plan?
+
+* Asymmetric Information, financial statements, and firm value
+
+Discuss the role of financial statements in reducing asymmetric information.
+The firm value is, of course, determined by information regarding present and
+future cash flows from assets. 
+
+* Analyst Track Record
+
+In what way was the analyst recommendations correlated with the stock price?  
+
+* What makes financial statements required?  
+
+Bond protective covenants, and stock market listing requirements and their
+implications if you don't file on time. Missing financial statements means
+debt can be called, which may cause default.  See page 106.
 
